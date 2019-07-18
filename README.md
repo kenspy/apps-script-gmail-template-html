@@ -1,1 +1,1 @@
-# apps-script-gmail-template-html
+# Apps Script Gmail Template HTML
